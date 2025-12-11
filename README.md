@@ -1,4 +1,4 @@
 # Bhanu-demo
 This is my first git repository.
 <br>
-Author ~ Bhanu Sethi 
+Author ~ Bhanu (Bhanu Sethi)
